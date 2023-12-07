@@ -4,5 +4,5 @@
 
 Goal was to organize and display data of a company's remaining data of a certain employment era.
 
-#Credits
+# Credits
 ChatGPT assisted in minor coding hiccups.
